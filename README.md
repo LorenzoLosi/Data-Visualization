@@ -2,7 +2,7 @@
 
 #scrivo qualcosa
 
-![mia immagine](Data-Visualization/_MG_3761 low.jpg)
+![mia immagine](Data-Visualization/_MG_3761 low.jpg.jpg)
 
 
 #ciao
@@ -19,4 +19,4 @@
 * ref
 * dd
 
-![mia immagine](Data-Visualization/_MG_3761 low.jpg)
+![mia immagineops](1582121343542.jpg--.jpg)
