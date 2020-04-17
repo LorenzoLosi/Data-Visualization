@@ -1,8 +1,8 @@
 # Data-Visualization
 
-scrivo qualcosa
+#scrivo qualcosa
 
-![mia immagine](_MG_3761 low.jpg)
+![mia immagine](Data-Visualization/_MG_3761 low.jpg)
 
 
 #ciao
